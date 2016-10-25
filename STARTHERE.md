@@ -1,4 +1,4 @@
-# freevps
+# freevps Submit issues to claim
 Windows Server 2016 4CORE 4GB 80GB SSD {FREE VPS} {Torrent Downloading Allowed}
 
 This is a open source RDP SERVER
@@ -11,3 +11,5 @@ SPEED IS LIMITED TO 50MPBS DOWNLOAD 5MBPS UPLOAD FOR DDOS PROTECTION!
 
 {NEXT SET OF ADMIN LOGINS WILL NOT BE ISSUED TILL JANUARY 1RST 2017} 1RST COME FIRST SERVER MUST CLAIM WITH
  DoMicroTasks
+ 
+ First 4 issues with the word {CLAIM} CAN CLAIM ONE OF THESE 4 LOGINS!
